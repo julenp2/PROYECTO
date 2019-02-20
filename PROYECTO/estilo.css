@@ -1,0 +1,25 @@
+<style>
+<center>
+            <img src="1.jpg" alt="solvetic">
+</center>
+
+html {
+    height:100%;
+    width:100%;
+}
+body{
+    background:#8ba987 <img src="1.jpg">center center;
+    background-size:100% 100%;
+}
+</style>
+
+
+<div id="lateal">(izquierdo)
+con float left 
+</div>
+<div id="central">
+con float left y margen left  de 100px para que se vaya al centro
+</div>
+<div id="otrolado">("derecho")
+con float right para que se acomode hasta la orilla
+</div>
